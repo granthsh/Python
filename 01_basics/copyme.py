@@ -1,3 +1,3 @@
-from basic_function import copyme
+from basic_func import copyme
 
 copyme(4)
