@@ -1,4 +1,4 @@
 def copyme(n):
     print(n)
-
-copyme("dont copy me")
+if __name__ == "__main__":
+    copyme("dont copy me")
